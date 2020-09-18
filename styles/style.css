@@ -1,0 +1,17 @@
+#ufoCanvas {
+    border: 1px solid black;
+    /* for horizontal centering */
+    margin: 0 auto;
+    display: block;
+    /* set backgorund image */
+    background-image: url("../images/field-background.jpg");
+    /* resize the background image to canvas */
+    background-size: 100% 100%;
+}
+
+body {
+    background-image: url("../images/field-background.jpg");
+    background-size: 100% 100%;
+    background-repeat: repeat;
+}
+
